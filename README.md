@@ -1,6 +1,8 @@
 # Class-12-python-project
 Its a basic Python Project for Class 12th Students
 
+The project is based on the Economic Impact before and after Covid-19 globally and for few countries
+
 Technology Used:
 1. Python
 
