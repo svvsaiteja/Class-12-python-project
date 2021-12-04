@@ -15,7 +15,7 @@ Refers to the tabular data saved as plaintext where data values are separated by
 5. Data Visualization and matplotlib
 Data Visualization basically refers to the graphical and visual representation of information and data using visual elements like charts, graphs, and maps, etc.
 
-Py-Win32 Module
+6. Py-Win32 Module
 It’s one of the most versatile Windows API (Application Program Interface) for python.
 Here I have used the module to convert  text to speech which makes my project more beautiful. It has a simple code which converts text to speech.
 
