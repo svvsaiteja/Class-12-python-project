@@ -1,5 +1,6 @@
 # Class-12-python-project
-Its a basic Python Project for Class 12th Students 
+Its a basic Python Project for Class 12th Students
+
 Technology Used:
 1. Python
 
