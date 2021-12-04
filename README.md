@@ -1,7 +1,7 @@
 # Class-12-python-project
 Its a basic Python Project for Class 12th Students
 
-The project is based on the Economic Impact before and after Covid-19 globally and for few countries
+The project is based on the Economic Impact before and after Covid-19 globally and for few countries.
 
 Technology Used:
 1. Python
@@ -38,6 +38,9 @@ ABOUT THE PROJECT
 •	THE HIGEST ECONOMY HAVING COUNTRY,THE LOWEST ECONIMY HAVING COUNTRY,THE ECONOMIC OF EACH COUNTRY CAN BE SEEN IN DATA ANALYSIS. THE GLOBAL IN THE GRAPH SHOWS THE OVERALL ECONOMIC IMPACT OF COVID-19 OF ALL OVER THE WORLD.
 
 •	BY TYPING 1 YOU WOULD BE ABLE TO SEE WHOLE DATA SET. 
+
 •	BY TYPING 2 YOU WOULD BE ABLE TO SEE THE GRAPHS.
+
 •	BY TYPING 3 YOU WOULD BE ABLE TO SEE DATA ANALYSIS. 
+
 •	BY TYPING 4 YOU WOULD EXIT THE DOCUMENT AND THNKING SLIDE APPEARS.
